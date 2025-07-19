@@ -83,6 +83,14 @@ Backend server - ```npm run server```
 
 Testing - ```npm run test```
 
+## 🤝🏻 Top contributors
+
+1. [prathmesh-ka-github](https://github.com/prathmesh-ka-github)
+1. [Rishikesh1821](https://github.com/Rishikesh1821)
+1. [aldstr](https://github.com/aldstr)
+1. [ShelleyMassinga](https://github.com/ShelleyMassinga)
+1. [NarayaniKK](https://github.com/NarayaniKK)
+
 ## 📝 License
 This project is licensed under the MIT License.
 
